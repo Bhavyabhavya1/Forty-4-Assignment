@@ -57,23 +57,18 @@ This project is a full-stack user management application that allows adding, edi
 
 ---
 
-## Deployed URLs
-
-- **Frontend**: https://forty-4-tech-frontend.onrender.com
-- **Backend**: https://forty-4-tech-backend.onrender.com
-
 ## Running the Project Locally
 
 ### Backend
-1. Navigate to `44-backend` folder.
+1. Navigate to `backend` folder.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the backend server (default port 3000).
 
 ### Frontend
-1. Navigate to `44-frontend` folder.
+1. Navigate to `frontend` folder.
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the frontend development server.
-4. Open the URL shown in the terminal (e.g., http://localhost:5174).
+4. Open the URL shown in the terminal.
 
 ---
 
@@ -85,13 +80,5 @@ This project is a full-stack user management application that allows adding, edi
 
 ---
 
-## Future Improvements
-- Add pagination for user list.
-- Add user authentication and authorization.
-- Improve error handling and loading states.
-- Add unit and integration tests.
 
----
 
-## Contact
-For any questions or issues, please contact the project maintainer.
